@@ -1,0 +1,24 @@
+# Node/Next.js
+node_modules/
+.next/
+dist/
+*.log
+coverage/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+
+# Env files
+.env
+.env.*
+apps/frontend/.env.local
+apps/api/.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
